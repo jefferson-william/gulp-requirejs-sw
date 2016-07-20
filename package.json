@@ -1,0 +1,40 @@
+{
+	"name": "gulp-requirejs-sw",
+	"version": "0.0.0",
+	"description": "Apply Service Worker file loaded by RequireJS.",
+	"keywords": [
+		"gulp",
+		"require",
+		"requirejs",
+		"sw",
+		"service worker"
+	],
+	"homepage": "https://github.com/jefferson-william/gulp-requirejs-sw",
+	"bugs": "https://github.com/jefferson-william/gulp-requirejs-sw/issues",
+	"author": {
+		"name": "Jefferson William Machado",
+		"email": "jeffersonwilliammachado@gmail.com",
+		"url": "https://github.com/jefferson-william"
+	},
+	"main": "./index.js",
+	"files": [
+		"index.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jefferson-william/gulp-requirejs-sw.git"
+	},
+	"scripts": {
+		"pretest": "",
+		"test": ""
+	},
+	"devDependencies": {
+		"gulp": ">=3.0.0",
+		"gulp-util": "^3.0.4"
+	},
+	"engines": {
+		"node": ">=0.10.0",
+		"npm": ">=1.2.10"
+	},
+	"license": "MIT"
+}
